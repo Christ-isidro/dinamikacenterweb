@@ -7,6 +7,16 @@
     text-align: center;
 }
 
+#ubicacion {
+    text-decoration: none;
+    color: black;
+}
+
+#ubicacion:hover {
+    text-decoration: underline;
+    color: #007bff;
+}
+
 /* Estilos para el formulario */
 form {
     background: #ffffff;
@@ -57,8 +67,4 @@ button {
     cursor: pointer;
     transition: 0.3s;
     margin-top: 10px;
-}
-
-button:hover {
-    background-color: #0056b3;
 }

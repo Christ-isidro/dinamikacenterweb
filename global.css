@@ -50,10 +50,11 @@ html {
 #tituloMenu {
     color: black;
     text-align: center !important;
+
 }
 
 #navbarSupportedContent {
-    margin-left: 45%;
+    margin-left: 30%;
 }
 
 .navbar {
